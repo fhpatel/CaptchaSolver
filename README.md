@@ -7,3 +7,6 @@ The script is able too circumnavigate Google's reCaptcha using the following ste
 * Navigate through to the audio challenge and pull in the audio challenge file
 * Open a new tab and upload the audio file and convert to text
 * Move back to the initial tab and enter the solution 
+
+
+<span style="color:red"><strong>The purpose of this script is purley educational and should be conducted in voliation of a sites Robot.txt</strong></span>.
