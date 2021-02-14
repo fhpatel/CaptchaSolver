@@ -1,1 +1,1 @@
-# CaptchaSolver
+# reCaptchaSolver
