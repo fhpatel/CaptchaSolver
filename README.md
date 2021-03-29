@@ -9,4 +9,4 @@ The script is able too circumnavigate Google's reCaptcha using the following ste
 * Move back to the initial tab and enter the solution 
 
 
-<span style="color:red"><strong>The purpose of this script is purley educational and should be conducted in voliation of a sites Robot.txt</strong></span>.
+<span style="color:red"><strong>The purpose of this script is purley educational and should be ran in accordance of a sites Robot.txt</strong></span>.
